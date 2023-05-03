@@ -14,7 +14,7 @@ Web Developer / Extreme Skater
 
 Feel Free To Check My Website: https://john-koulatsis-website.netlify.app/
 
-And Follow Me On Instagram: instagram.com/johnkoulatsis
+And Follow Me On Instagram: [instagram.com/johnkoulatsis](https://www.instagram.com/johnkoulatsis/)
 
 Contact Me For Bussiness: gkoulatsis@gmail.com
 
