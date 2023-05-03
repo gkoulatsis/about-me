@@ -18,4 +18,4 @@ And Follow Me On Instagram: [instagram.com/johnkoulatsis](https://www.instagram.
 
 Contact Me For Bussiness: gkoulatsis@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkoulatsis)](https://github.com/gkoulatsis/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkoulatsis)](https://github.com/gkoulatsis/github-readme-stats)
