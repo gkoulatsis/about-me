@@ -1,16 +1,21 @@
-### Hi there 👋
+# READ ME
+About Me
 
-<!--
-**gkoulatsis/gkoulatsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm John Koulatis
+Web Developer / Extreme Skater
 
-Here are some ideas to get you started:
+- 💻 I'm Currently Working On Wordpress
+- 👨‍💻 I Mastered Html
+- 👨‍💻 I Mastered Css
+- 👨‍💻 I Know Very Well Javascript
+- 👨‍💻 I Know Very Well UI / UX Design
+- 👨‍💻 I Know Sketch
+- 🌐 I Make Really Cool Websites...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel Free To Check My Website: https://john-koulatsis-website.netlify.app/
+
+And Follow Me On Instagram: instagram.com/johnkoulatsis
+
+Contact Me For Bussiness: gkoulatsis@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkoulatsis)](https://github.com/gkoulatsis/github-readme-stats)
