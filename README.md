@@ -12,7 +12,7 @@ Web Developer / Extreme Skater
 - 👨‍💻 I Know Sketch
 - 🌐 I Make Really Cool Websites...
 
-Feel Free To Check My Website: https://john-koulatsis-website.netlify.app/
+Feel Free To Check My Website: https://johnkoulatsis-website.netlify.app/
 
 And Follow Me On Instagram: [instagram.com/johnkoulatsis](https://www.instagram.com/johnkoulatsis/)
 
