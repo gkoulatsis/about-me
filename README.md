@@ -6,8 +6,8 @@ Web Developer / Extreme Skater
 
 - 💻 I'm currently working on WordPress
 - 👨‍💻 I Know HTML | CSS | JavaScript very good
+- 🌐 I Create animated websites responsive and pixel sharp
 - ✏ I Create Video edits and Photo edits
-- 🌐 I create animated websites responsive and pixel sharp
 
 Check my website: https://johnkoulatsis-website.netlify.app/
 
