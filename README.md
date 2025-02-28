@@ -5,7 +5,7 @@ About Me
 Web Developer / Extreme Skater
 
 - 💻 I'm currently working on WordPress
-- 👨‍💻 I Know HTML | CSS | JavaScript very good
+- 👨‍💻 HTML, CSS, JavaScript Expert
 - 🌐 I Create animated websites responsive and pixel sharp
 - ✏ I Create Video edits and Photo edits
 
