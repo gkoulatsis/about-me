@@ -14,5 +14,3 @@ Check my website: https://johnkoulatsis-website.netlify.app/
 Follow me on Instagram: [instagram.com/johnkoulatsis](https://www.instagram.com/johnkoulatsis/)
 
 Contact me for business: gkoulatsis@gmail.com
-
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkoulatsis)](https://github.com/gkoulatsis/github-readme-stats)
