@@ -9,8 +9,9 @@ Web Developer / Extreme Skater
 - 🌐 I Create animated websites responsive and pixel sharp
 - ✏ I Create Video edits and Photo edits
 
-Check my website: https://johnkoulatsis-website.netlify.app/
+Check my website: https://johnkoulatsis.netlify.app/
+Check ProSkate website I created: https://proskate.netlify.app/
 
-Follow me on Instagram: [instagram.com/johnkoulatsis](https://www.instagram.com/johnkoulatsis/)
+Follow me on Instagram: [instagram.com/k2latshss](https://www.instagram.com/k2latshss/)
 
 Contact me for business: gkoulatsis@gmail.com
