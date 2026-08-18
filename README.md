@@ -10,6 +10,7 @@ Web Developer / Extreme Skater
 - ✏ I Create Video edits and Photo edits
 
 Check my website: https://johnkoulatsis.netlify.app/
+
 Check ProSkate website I created: https://proskate.netlify.app/
 
 Follow me on Instagram: [instagram.com/k2latshss](https://www.instagram.com/k2latshss/)
